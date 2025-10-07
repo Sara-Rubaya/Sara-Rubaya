@@ -60,11 +60,9 @@
 
 <br/>  
 
-
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Sara-Rubaya&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Sara-Rubaya&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
 
 </td><td valign="top" width="50%">
 
