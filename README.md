@@ -1,6 +1,7 @@
-## Hey 👋, I'm Sara Rubaya  
+# *<div align="center">Hi👋, I'm Sara Rubaya..</div>*  
   
 
+<div align="center">
 <a href="https://github.com/Sara-Rubaya" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -10,6 +11,7 @@
 <a href="https://www.facebook.com/sara.rubaya" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
+</div>  
   
 
 <br/>  
@@ -27,11 +29,18 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- 🌿 When I’m not coding, I’m probably experimenting with plant care or making random digital art.  
+- *🌿 Fun fact:When I’m not coding, I’m probably experimenting with plant care or making random digital art.*  
+  
+
+- 📫 How to reach me by phone number : +8801846831753  
+  
+
+- 📫 How to reach me sararubaya4800@gmail.com  
 
 
 </td><td valign="top" width="50%">
 
+<img src="https://i.pinimg.com/736x/fb/26/c7/fb26c7cfac77d8a4d018b397bb7f6c99.jpg" align="left" height="450" width="" />  
 
 
 </td></tr></table>  
@@ -62,11 +71,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Sara-Rubaya&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=Sara-Rubaya&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Rubaya&hide_border=true&layout=compact" align="center" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Rubaya&hide_border=true&layout=compact" align="right" /></div>
 
 </td></tr></table>  
 
