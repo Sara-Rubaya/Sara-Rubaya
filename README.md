@@ -4,7 +4,16 @@
 <h1 align="center">Hi 👋, I'm Sara Rubaya</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh</h3>
 # 💫 About Me:
-🔭 I’m currently working on HobbyHub-Client<br><br>🌱 I’m currently learning Next.js<br><br>❓ Ask me about anything related to Frontend related technologies<br><br>🌿 Fun fact: When I’m not coding, I’m probably experimenting with plant care or making random digital art.<br><br>📫 How to reach me by phone number : +8801846831753
+- 🔭 I’m currently working on [Insuroo](https://insuroo-client.web.app/)
+
+- 🌱 I’m currently learning **Next.js.**
+
+- ❓ Ask me about anything related to Frontend related technologies
+  
+- 🌿 Fun fact:When I’m not coding, I’m probably experimenting with plant care or making random digital art.
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://quiet-torrone-8389ee.netlify.app/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sara-rubaya-86a411305/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sararubaya4800@gmail.com) 
