@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Sara Rubaya</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh</h3>
-# 💫 About Me:
+
 - 🔭 I’m currently working on [Insuroo](https://insuroo-client.web.app/)
 
 - 🌱 I’m currently learning **Next.js.**
