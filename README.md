@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/1200x/e1/e0/ab/e1e0ab6d490e41096e86e5e9e5abff16.jpg" alt="cover photo" width="100%" height="230px" style="object-fit: cover; border-radius: 10px;">
 </p>
-
+<h1 align="center">Hi 👋, I'm Sara Rubaya</h1>
+<h3 align="center">A passionate Frontend developer from Bangladesh</h3>
 # 💫 About Me:
 🔭 I’m currently working on HobbyHub-Client<br><br>🌱 I’m currently learning Next.js<br><br>❓ Ask me about anything related to Frontend related technologies<br><br>🌿 Fun fact: When I’m not coding, I’m probably experimenting with plant care or making random digital art.<br><br>📫 How to reach me by phone number : +8801846831753
 
