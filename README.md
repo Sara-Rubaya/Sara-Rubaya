@@ -12,7 +12,7 @@
   
 - 🌿 Fun fact:When I’m not coding, I’m probably experimenting with plant care or making random digital art.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://quiet-torrone-8389ee.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sara-portfolio53.netlify.app/)
 
 
 ## 🌐 Socials:
