@@ -7,12 +7,22 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🔭 Currently working on **[Insuroo](https://insuroo-client.web.app/)**  
-- 🌱 Learning **Next.js** & building real-world MERN applications  
-- ❓ Ask me anything about **Frontend Development, React, or MERN Stack**  
-- 🌿 **Fun fact:** When I’m not coding, I’m experimenting with plant care 🌱 or making digital art 🎨  
-- 🧾 Explore all my work here → **[My Portfolio](https://sara-portfolio53.netlify.app/)**  
+
+<p align="left"> <a href="https://i.pinimg.com/736x/d1/16/bf/d116bff2b9dd6368c9a15cdf258b2f21.jpg"><img src="https://github-profile-trophy.vercel.app/?username=Sara-Rubaya" alt="Sara-Rubaya" /></a> </p>
+
+- 🔭 I'm currently working on **Insuroo**
+
+- 🌱 I'm currently learning **Next.js**
+
+- 💬 Ask me about **React, Node, MERN stack**
+
+- 📫 How to reach me **sararubaya4800@gmail.com**
+
+- ⚡ Fun fact **When I’m not coding, I’m experimenting with plant care 🌱 or making digital art **
+
+- 👨‍💻 All of my projects are available at **[Portfolio](https://sara-portfolio53.netlify.app/)**
+
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1wG7ib487Ssyz0dSBkhmS0oV1loZHosyt/view?usp=drive_link)** 
 
 ---
 
