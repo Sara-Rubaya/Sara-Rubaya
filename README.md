@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/e1/e0/ab/e1e0ab6d490e41096e86e5e9e5abff16.jpg" alt="cover photo" width="100%" height="230px" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://i.pinimg.com/736x/cb/99/bc/cb99bc9de2a41527de5a7249c8564176.jpg" alt="cover photo" width="100%" height="230px" style="object-fit: cover; border-radius: 10px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#7aa2f7">Sara Rubaya</span></h1>
