@@ -8,7 +8,7 @@
 ---
 
 
-<p align="left"> <a href="https://i.pinimg.com/736x/d1/16/bf/d116bff2b9dd6368c9a15cdf258b2f21.jpg"><img src="https://i.pinimg.com/736x/d1/16/bf/d116bff2b9dd6368c9a15cdf258b2f21.jpg" alt="Sara-Rubaya" /></a> </p>
+<h1>About Me</h1>
 
 - 🔭 I'm currently working on **Insuroo**
 
