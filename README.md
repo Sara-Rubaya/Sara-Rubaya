@@ -95,7 +95,6 @@ const sara: Developer = {
 **Styling & UI**
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -113,27 +112,9 @@ const sara: Developer = {
 
 ---
 
-## `{ github_stats }`
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sara-Rubaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Rubaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5"/>
 
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sara-Rubaya&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
-
-<br/><br/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Sara-Rubaya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" />
-
-</div>
-
-<br/>
-
----
 
 ## `{ dev_quote }`
 
