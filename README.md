@@ -132,7 +132,7 @@ const sara: Developer = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=7aa2f7)](https://sara-portfolio53.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=7aa2f7)](https://sararubaya.netlify.app/)
 &nbsp;
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-bb9af7?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1wG7ib487Ssyz0dSBkhmS0oV1loZHosyt/view?usp=drive_link)
 &nbsp;
