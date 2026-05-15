@@ -32,7 +32,7 @@ const sara: Developer = {
   role:        "Frontend Developer",
   location:    "Dhaka, Bangladesh 🇧🇩",
   currentWork: "Insuroo — Insurance Platform",
-  learning:    ["Next.js", "Server Components", "App Router"],
+  learning:    ["TypeScript", "Server Components", "PostgreSQL"],
   askMeAbout:  ["React", "Node.js", "MERN Stack", "UI/UX"],
   contact:     "sararubaya4800@gmail.com",
   funFact:     "When not coding → plant care 🌱 or digital art 🎨",
